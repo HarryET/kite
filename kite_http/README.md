@@ -1,7 +1,7 @@
 # kite_http
 
 [![pub](https://img.shields.io/pub/v/kite_http.svg)](https://pub.dartlang.org/packages/kite_http)
-[![documentation](https://img.shields.io/badge/Documentation-kite.http-green.svg)](https://www.dartdocs.org/documentation/kite.http/latest/)
+[![documentation](https://img.shields.io/badge/Documentation-kite.http-green.svg)](https://pub.dev/documentation/kite_http/latest/)
 
 <hr/>
 
